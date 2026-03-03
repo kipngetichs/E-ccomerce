@@ -12,37 +12,37 @@
 
 Despite processing thousands of orders every month, most marketplace operators struggle with:
 
-- **Delivery blindness** — Is 93% on-time rate good enough? (It is not. The remaining 7% generates 65% of your 1-star reviews)
-- **Seller accountability gaps** — 8% of sellers are actively damaging your brand while generating revenue that feels too good to cut
-- **Category margin leaks** — One category is shipping at 54% freight-to-revenue. For every $100 it earns, $54 goes straight to the carrier
-- **Cash flow illusions** — 78% credit card payments at 3 installments means your GMV figure is not the cash in your bank
+- **Delivery blindness** - Is 93% on-time rate good enough? (It is not. The remaining 7% generates 65% of your 1-star reviews)
+- **Seller accountability gaps** - 8% of sellers are actively damaging your brand while generating revenue that feels too good to cut
+- **Category margin leaks** - One category is shipping at 54% freight-to-revenue. For every $100 it earns, $54 goes straight to the carrier
+- **Cash flow illusions** - 78% credit card payments at 3 installments means your GMV figure is not the cash in your bank
 
 ### Real Impact
-> **Platform Insight**: A seller ranked 5th overall by revenue — generating $187,923 for the platform — carries a 3.35 average review score. Every order they fulfil at that satisfaction level generates public 1-star warnings that reduce the purchase conversion rate for every future buyer who researches the platform. The revenue looks good. The brand damage is invisible — until it compounds.
+> **Platform Insight**: A seller ranked 5th overall by revenue - generating $187,923 for the platform - carries a 3.35 average review score. Every order they fulfil at that satisfaction level generates public 1-star warnings that reduce the purchase conversion rate for every future buyer who researches the platform. The revenue looks good. The brand damage is invisible - until it compounds.
 
 ---
 
-##The Solution: 5-Page E-Commerce Intelligence Dashboard
+## The Solution: 5-Page E-Commerce Intelligence Dashboard
 
 I built a **5-page Power BI analytics system** that answers the only questions that matter for marketplace profitability:
 
 ### Question 1: What is the true health of this business?
 **Business Impact:** Single source of truth for all executive decisions
-**Key Finding:** $15.7M GMV, 93% on-time delivery, 4.0 avg rating — strong foundation with three fixable cracks
+**Key Finding:** $15.7M GMV, 93% on-time delivery, 4.0 avg rating - strong foundation with three fixable cracks
 
 ### Question 2: Where is late delivery destroying customer trust?
-**Business Impact:** Fix 7% of orders — recover thousands of 1-star reviews annually
+**Business Impact:** Fix 7% of orders - recover thousands of 1-star reviews annually
 **Key Finding:** Significantly late orders generate a 65% 1-star review rate vs 7% for on-time orders. Same product. Same seller. Only the delivery timing changed.
 
 ### Question 3: Which sellers are building the brand and which are damaging it?
 **Business Impact:** Systematic seller management = platform-wide satisfaction improvement
-**Key Finding:** 77% of sellers are GOLD or SILVER — the problem is concentrated in 23%. Fix 711 sellers and the entire platform's reputation improves.
+**Key Finding:** 77% of sellers are GOLD or SILVER - the problem is concentrated in 23%. Fix 711 sellers and the entire platform's reputation improves.
 
 ### Question 4: Which product categories earn money and which leak margin?
 **Business Impact:** Category freight restructuring = immediate margin recovery
 **Key Finding:** Home Comfort 2 at 54% freight-to-revenue is structurally unprofitable on every order shipped
 
-### Question 5: Is revenue growth real — and are we collecting money when we think we are?
+### Question 5: Is revenue growth real - and are we collecting money when we think we are?
 **Business Impact:** Accurate financial planning prevents working capital crises
 **Key Finding:** 3-month credit card installment lag means peak GMV months are not peak cash months
 
@@ -50,7 +50,7 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 
 ## Dashboard Overview
 
-### Page 1 — Executive Overview: The Business at a Glance
+### Page 1 Executive Overview: The Business at a Glance
 *Answers: "Is the business healthy — and is there anything I need to act on today?"*
 
 <!-- Replace with your actual Page 1 screenshot -->
@@ -58,16 +58,16 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 
 **Key Metrics Tracked:**
 - Total Revenue (GMV): **$15.7M** across 24 months
-- Total Orders: **99,441** — validates real commercial scale
-- On-Time Delivery Rate: **93%** — strong but not complete
-- Average Review Score: **4.0 / 5** — sustained across all months
-- Active Sellers: **3,095** — diverse competitive ecosystem
-- Average Order Value: **$158.30** — key growth lever
+- Total Orders: **99,441** - validates real commercial scale
+- On-Time Delivery Rate: **93%** - strong but not complete
+- Average Review Score: **4.0 / 5** - sustained across all months
+- Active Sellers: **3,095** - diverse competitive ecosystem
+- Average Order Value: **$158.30** - key growth lever
 
 **Business Decisions Enabled:**
 - Identify the three fixable problems hiding inside a healthy-looking business
 - Track revenue growth from $137K/month to $1.17M in 10 months
-- Geographic risk assessment — SP generates 37.6% of all GMV alone
+- Geographic risk assessment - SP generates 37.6% of all GMV alone
 - Baseline all five dashboard pages from one single control panel
 
 **Top 5 States Revenue Breakdown:**
@@ -82,8 +82,8 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 
 ---
 
-### Page 2 — Delivery Performance: Are We Keeping Our Promise?
-*Answers: "Where exactly is delivery breaking down — and how much is it costing us in customer satisfaction?"*
+### Page 2 Delivery Performance: Are We Keeping Our Promise?
+*Answers: "Where exactly is delivery breaking down - and how much is it costing us in customer satisfaction?"*
 
 <!-- Replace with your actual Page 2 screenshot -->
 ![Delivery Performance Dashboard](assets/page2_delivery_performance.png)
@@ -118,8 +118,8 @@ June Peak        → average 18 days — worst month in the dataset
 
 ---
 
-### Page 3 — Seller Scorecard: Who is Building the Business and Who is Breaking It?
-*Answers: "Which of 3,095 sellers are performing at the level this platform needs — and which ones are quietly damaging it?"*
+### Page 3 Seller Scorecard: Who is Building the Business and Who is Breaking It?
+*Answers: "Which of 3,095 sellers are performing at the level this platform needs - and which ones are quietly damaging it?"*
 
 <!-- Replace with your actual Page 3 screenshot -->
 ![Seller Scorecard Dashboard](assets/page3_seller_scorecard.png)
@@ -129,19 +129,19 @@ June Peak        → average 18 days — worst month in the dataset
 - Total Seller Revenue: **$13.59M**
 - Top Seller Revenue: **$229,473** (Guariba, SP)
 - Top Seller Avg Score: **4.12 / 5**
-- Lowest Score in Top 10: **3.35 / 5** — the risk hiding inside the revenue
+- Lowest Score in Top 10: **3.35 / 5** - the risk hiding inside the revenue
 
 **Seller Tier Distribution:**
 
 | Tier | Score Threshold | Dispatch Rate | % of Sellers | Action Required |
 |------|----------------|---------------|--------------|-----------------|
-| 1 GOLD — Top Performer | 4.5+ stars | 90%+ | 28% | Reward & retain |
-| 2 SILVER — Solid Performer | 3.5 – 4.5 | 75%+ | 49% | Coach toward GOLD |
-| 3 BRONZE — Needs Improvement | 2.5 – 3.5 | Any | 15% | 60-day plan |
-| 4 AT RISK — Urgent Review | Below 2.5 | Any | 8% | Act now |
+| 1 GOLD - Top Performer | 4.5+ stars | 90%+ | 28% | Reward & retain |
+| 2 SILVER - Solid Performer | 3.5 – 4.5 | 75%+ | 49% | Coach toward GOLD |
+| 3 BRONZE - Needs Improvement | 2.5 – 3.5 | Any | 15% | 60-day plan |
+| 4 AT RISK - Urgent Review | Below 2.5 | Any | 8% | Act now |
 
 **Business Decisions Enabled:**
-- Identify the high-revenue, low-satisfaction seller (5th by revenue, 3.35 score) — the most dangerous profile
+- Identify the high-revenue, low-satisfaction seller (5th by revenue, 3.35 score) - the most dangerous profile
 - Automatically classify every seller into a management tier without manual review
 - Understand why São Paulo dominates ($2.7M) and what Ibitinga's outlier status means
 - Build the case for geographic seller recruitment to reduce SP concentration risk
@@ -156,7 +156,7 @@ AT RISK sellers  → ~247 sellers actively accumulating 1-star reviews — act i
 
 ---
 
-### Page 4 — Category Analysis: Where Margin Grows and Where It Leaks
+### Page 4  Category Analysis: Where Margin Grows and Where It Leaks
 *Answers: "Across 74 categories, which ones earn money — and which ones are destroying margin on every order they ship?"*
 
 <!-- Replace with your actual Page 4 screenshot -->
@@ -166,8 +166,8 @@ AT RISK sellers  → ~247 sellers actively accumulating 1-star reviews — act i
 - Product Categories: **74** active on platform
 - Category Revenue Total: **$13.59M**
 - Top Category Revenue: **$1.26M** (Health & Beauty)
-- Highest Freight %: **54%** (Home Comfort 2) — CRITICAL
-- Lowest Freight %: **4%** (Computers) — best in class
+- Highest Freight %: **54%** (Home Comfort 2)  CRITICAL
+- Lowest Freight %: **4%** (Computers)  best in class
 
 **The freight cost spectrum:**
 ```
@@ -193,8 +193,8 @@ Computers       ██░░░░░░░░░░░░░░░░░░░�
 |----------|-----------|---------|
 | CDs, DVDs & Musicals | 92 | 92 more happy than unhappy per 100 reviews |
 | Construction Tools | 82 | Professional buyers, precise expectations met |
-| Books — General Interest | 80 | Lightweight, accurate, consistent |
-| Flowers | 79 | Customers love it — economics do not work |
+| Books - General Interest | 80 | Lightweight, accurate, consistent |
+| Flowers | 79 | Customers love it - economics do not work |
 | Food & Drink | 78 | Perishable category managed effectively |
 
 **Business Decisions Enabled:**
@@ -206,15 +206,15 @@ Computers       ██░░░░░░░░░░░░░░░░░░░�
 ---
 
 ### Page 5 — Revenue Trends & Payment Intelligence
-*Answers: "Is the revenue number real — and are we collecting money when we think we are?"*
+*Answers: "Is the revenue number real - and are we collecting money when we think we are?"*
 
 <!-- Replace with your actual Page 5 screenshot -->
 ![Revenue Trends Dashboard](assets/page5_revenue_payments.png)
 
 **Key Metrics Tracked:**
 - Total GMV All Time: **$15.74M**
-- Peak Monthly GMV: **$1.17M** (November 2017 — Black Friday)
-- Revenue YTD 2018: **$8.59M** (January — August)
+- Peak Monthly GMV: **$1.17M** (November 2017 - Black Friday)
+- Revenue YTD 2018: **$8.59M** (January - August)
 - Credit Card Revenue Share: **78%**
 - Monthly GMV (Aug 2018): **$996.9K**
 - Repeat Purchase Rate: **1–2% per month**
@@ -231,7 +231,7 @@ Computers       ██░░░░░░░░░░░░░░░░░░░�
 **Business Decisions Enabled:**
 - Build the November Black Friday readiness plan 6 weeks before September
 - Align promotional campaigns with April AOV peak and October pre-Christmas intent
-- Correct financial planning — GMV ≠ cash received with 3-month installment lag
+- Correct financial planning - GMV ≠ cash received with 3-month installment lag
 - Identify the repeat purchase gap (1–2% vs industry benchmark 20–40%) as the growth lever
 
 **Revenue Growth Arc (24 Months):**
@@ -252,7 +252,7 @@ Aug 2018  ████████████████████  $1.15M  
 - **99,441 orders** analysed across 24 months of real marketplace transactions
 - **3,095 active sellers** with full performance profiling across revenue, satisfaction, and dispatch compliance
 - **74 product categories** with freight economics and customer satisfaction scoring
-- **9 interconnected data tables** — orders, customers, sellers, products, payments, reviews, geolocation, items, category translation
+- **9 interconnected data tables** - orders, customers, sellers, products, payments, reviews, geolocation, items, category translation
 - **Real-world data** from a live marketplace — not synthetic or simulated
 
 ### Analysis Framework
@@ -272,21 +272,21 @@ Actionable Recommendations (priority action plan)
 ```
 
 ### Technical Stack
-- **Power BI Desktop** — 5-page interactive dashboard with cross-filtering, slicers, drill-through
-- **DAX** — 50+ custom business measures including time intelligence and CROSSFILTER fixes
-- **SQL Server** — data exploration, relationship validation, all core analysis queries
-- **Power Query** — data transformation, type corrections, category name translation
-- **Python (pandas)** — initial data profiling, null analysis, duplicate detection
+- **Power BI Desktop** - 5-page interactive dashboard with cross-filtering, slicers, drill-through
+- **DAX** - 50+ custom business measures including time intelligence and CROSSFILTER fixes
+- **SQL Server** - data exploration, relationship validation, all core analysis queries
+- **Power Query** - data transformation, type corrections, category name translation
+- **Python (pandas)** - initial data profiling, null analysis, duplicate detection
 
 ---
 
-## 📈 Business Outcomes: What This Analysis Delivers
+##  Business Outcomes: What This Analysis Delivers
 
 ### Before the Dashboard
-- Revenue figures exist — but nobody knows which categories are profitable
-- Delivery complaints are handled case-by-case — no systemic pattern visible
-- Seller quality managed by instinct — no tier classification or escalation system
-- Financial planning done against GMV — cash flow shortfalls arrive as surprises
+- Revenue figures exist - but nobody knows which categories are profitable
+- Delivery complaints are handled case-by-case - no systemic pattern visible
+- Seller quality managed by instinct - no tier classification or escalation system
+- Financial planning done against GMV - cash flow shortfalls arrive as surprises
 
 ### After Implementing Recommendations
 
@@ -313,7 +313,7 @@ Actionable Recommendations (priority action plan)
 - **Year 1:** Recover margin leakage + reduce 1-star rate + fix cash flow planning
 - **Year 2:** Seller tier system operating, category management systematic
 - **Years 3–5:** Repeat purchase rate growing, geographic expansion accelerating
-- **Total compounding impact:** Depends on GMV scale — every 1% improvement in key metrics at $15M+ GMV is $150K+
+- **Total compounding impact:** Depends on GMV scale - every 1% improvement in key metrics at $15M+ GMV is $150K+
 
 ---
 
@@ -324,7 +324,7 @@ Actionable Recommendations (priority action plan)
 - ROI modelling and financial impact quantification
 - Marketplace competitive intelligence and seller ecosystem analysis
 - Data-driven decision frameworks for non-technical operators
-- Plain English communication — every finding explains what to do, not just what it shows
+- Plain English communication - every finding explains what to do, not just what it shows
 
 ### Technical Execution
 - Power BI dashboard development (5-page framework, cross-filtering, drill-through)
@@ -342,7 +342,7 @@ Actionable Recommendations (priority action plan)
 
 ---
 
-##  Data Model — 9 Tables, One Intelligence System
+##  Data Model - 9 Tables, One Intelligence System
 
 ```
                     ┌──────────────────┐
@@ -939,39 +939,12 @@ This project demonstrates exactly the type of work I deliver for clients — tak
 
 </div>
 
----
-
-### Project Impact Summary
-
-| Metric | Value |
-|--------|-------|
-| **Orders Analysed** | 99,441 |
-| **Sellers Profiled** | 3,095 |
-| **Categories Scored** | 74 |
-| **Dashboard Pages** | 5 |
-| **DAX Measures Built** | 50+ |
-| **SQL Queries** | 4 production-grade |
-| **Documentation** | 3 professional documents |
-| **Data Tables Modelled** | 9 (star schema) |
-
-### Technical Complexity
-
-| Component | Details |
-|-----------|---------|
-| **Data Volume** | 99,441 orders, 9 tables, 24 months |
-| **Custom Measures** | 50+ DAX calculations |
-| **Dashboard Pages** | 5 strategic modules |
-| **Key Technical Challenge** | CROSSFILTER fix for Many-to-One filter propagation across seller → orders → reviews chain |
-| **User Interface** | Non-technical (business-owner friendly) |
-
----
-
 <div align="center">
 
 ### ⭐ If this project demonstrates the kind of analytics your business needs, star this repo and let's talk.
 
 **Last Updated:** March 2026
-**Status:** ✅ Active — accepting new clients
+**Status:** ✅ Active - accepting new clients
 
 
 
