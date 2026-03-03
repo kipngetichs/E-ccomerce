@@ -6,23 +6,23 @@
 
 ---
 
-## 💼 The Business Problem
+## The Business Problem
 
 **E-commerce operators are losing $500,000+ annually to three invisible problems — and most do not know it.**
 
 Despite processing thousands of orders every month, most marketplace operators struggle with:
 
-- 📦 **Delivery blindness** — Is 93% on-time rate good enough? (It is not. The remaining 7% generates 65% of your 1-star reviews)
-- 🏪 **Seller accountability gaps** — 8% of sellers are actively damaging your brand while generating revenue that feels too good to cut
-- 📊 **Category margin leaks** — One category is shipping at 54% freight-to-revenue. For every $100 it earns, $54 goes straight to the carrier
-- 💳 **Cash flow illusions** — 78% credit card payments at 3 installments means your GMV figure is not the cash in your bank
+- **Delivery blindness** — Is 93% on-time rate good enough? (It is not. The remaining 7% generates 65% of your 1-star reviews)
+- **Seller accountability gaps** — 8% of sellers are actively damaging your brand while generating revenue that feels too good to cut
+- **Category margin leaks** — One category is shipping at 54% freight-to-revenue. For every $100 it earns, $54 goes straight to the carrier
+- **Cash flow illusions** — 78% credit card payments at 3 installments means your GMV figure is not the cash in your bank
 
 ### Real Impact
 > **Platform Insight**: A seller ranked 5th overall by revenue — generating $187,923 for the platform — carries a 3.35 average review score. Every order they fulfil at that satisfaction level generates public 1-star warnings that reduce the purchase conversion rate for every future buyer who researches the platform. The revenue looks good. The brand damage is invisible — until it compounds.
 
 ---
 
-## 🎯 The Solution: 5-Page E-Commerce Intelligence Dashboard
+##The Solution: 5-Page E-Commerce Intelligence Dashboard
 
 I built a **5-page Power BI analytics system** that answers the only questions that matter for marketplace profitability:
 
@@ -48,7 +48,7 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### Page 1 — Executive Overview: The Business at a Glance
 *Answers: "Is the business healthy — and is there anything I need to act on today?"*
@@ -74,11 +74,11 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 
 | Rank | State | Revenue | Share of GMV | Risk Signal |
 |------|-------|---------|--------------|-------------|
-| 🥇 | São Paulo (SP) | $5.9M | 37.6% | ⚠️ Concentration risk |
-| 🥈 | Rio de Janeiro (RJ) | $2.1M | 13.4% | ✅ Strong second |
-| 🥉 | Minas Gerais (MG) | $1.8M | 11.5% | ✅ Solid contributor |
-| 4 | Rio Grande do Sul (RS) | $0.9M | 5.7% | 📍 Growth opportunity |
-| 5 | Paraná (PR) | $0.8M | 5.1% | 📍 Growth opportunity |
+| 1.| São Paulo (SP) | $5.9M | 37.6% |  Concentration risk |
+| 2.| Rio de Janeiro (RJ) | $2.1M | 13.4% | Strong second |
+| 3.| Minas Gerais (MG) | $1.8M | 11.5% | Solid contributor |
+| 4. | Rio Grande do Sul (RS) | $0.9M | 5.7% |  Growth opportunity |
+| 5. | Paraná (PR) | $0.8M | 5.1% |  Growth opportunity |
 
 ---
 
@@ -98,10 +98,10 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 
 | Delivery Status | Share of Orders | 1-Star Review Rate | Avg Review Score |
 |---|---|---|---|
-| ✅ On-Time / Early | 90% | 7% | **4.0 / 5** |
-| ⚠️ Slightly Late (1–3 days) | 2% | 25% | **3.0 / 5** |
-| 🔴 Significantly Late (4+ days) | 5% | **65%** | **2.0 / 5** |
-| ⏳ Not Yet Delivered | 3% | 70% | **2.0 / 5** |
+| On-Time / Early | 90% | 7% | **4.0 / 5** |
+| Slightly Late (1–3 days) | 2% | 25% | **3.0 / 5** |
+| Significantly Late (4+ days) | 5% | **65%** | **2.0 / 5** |
+| Not Yet Delivered | 3% | 70% | **2.0 / 5** |
 
 **Business Decisions Enabled:**
 - Identify whether delivery failures are seller, carrier, or geography-driven
@@ -135,10 +135,10 @@ June Peak        → average 18 days — worst month in the dataset
 
 | Tier | Score Threshold | Dispatch Rate | % of Sellers | Action Required |
 |------|----------------|---------------|--------------|-----------------|
-| 🥇 GOLD — Top Performer | 4.5+ stars | 90%+ | 28% | Reward & retain |
-| 🥈 SILVER — Solid Performer | 3.5 – 4.5 | 75%+ | 49% | Coach toward GOLD |
-| 🥉 BRONZE — Needs Improvement | 2.5 – 3.5 | Any | 15% | 60-day plan |
-| 🔴 AT RISK — Urgent Review | Below 2.5 | Any | 8% | Act now |
+| 1 GOLD — Top Performer | 4.5+ stars | 90%+ | 28% | Reward & retain |
+| 2 SILVER — Solid Performer | 3.5 – 4.5 | 75%+ | 49% | Coach toward GOLD |
+| 3 BRONZE — Needs Improvement | 2.5 – 3.5 | Any | 15% | 60-day plan |
+| 4 AT RISK — Urgent Review | Below 2.5 | Any | 8% | Act now |
 
 **Business Decisions Enabled:**
 - Identify the high-revenue, low-satisfaction seller (5th by revenue, 3.35 score) — the most dangerous profile
@@ -171,18 +171,18 @@ AT RISK sellers  → ~247 sellers actively accumulating 1-star reviews — act i
 
 **The freight cost spectrum:**
 ```
-Home Comfort 2  ██████████████████████████████████████  54%  🔴 Margin destruction
-Flowers         █████████████████████████████████░░░░░  44%  🔴 Structurally broken
-Platform Avg    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  16%  📊 Benchmark
-Health & Beauty █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  14%  ✅ Healthy
-Computers       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%  ✅ Best in class
+Home Comfort 2  ██████████████████████████████████████  54%   Margin destruction
+Flowers         █████████████████████████████████░░░░░  44%   Structurally broken
+Platform Avg    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  16%   Benchmark
+Health & Beauty █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  14%   Healthy
+Computers       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%   Best in class
 ```
 
 **Top Revenue Categories:**
 
 | Category | Revenue | Freight % | Satisfaction | Strategy |
 |----------|---------|-----------|--------------|----------|
-| 🏆 Health & Beauty | $1.26M | 14.5% | High | Invest & grow |
+| Health & Beauty | $1.26M | 14.5% | High | Invest & grow |
 | Watches & Gifts | $1.21M | 8.3% | High | Invest & grow |
 | Bed, Bath & Table | $1.04M | 19.7% | Average | Monitor freight |
 | Sports & Leisure | $988K | 17.1% | Average | Maintain |
@@ -223,10 +223,10 @@ Computers       ██░░░░░░░░░░░░░░░░░░░�
 
 | Method | Share | Installments | Cash Flow Signal |
 |--------|-------|--------------|-----------------|
-| 💳 Credit Card | 78% | Avg 3 months | ⚠️ 3-month collection lag |
-| 🏦 Boleto | 18% | Full upfront | ✅ Immediate cash |
-| 🎟️ Voucher | 2% | Full | Monitor ROI |
-| 💰 Debit Card | 1% | Full | Minimal volume |
+| Credit Card | 78% | Avg 3 months | 3-month collection lag |
+| Boleto | 18% | Full upfront |  Immediate cash |
+| Voucher | 2% | Full | Monitor ROI |
+| Debit Card | 1% | Full | Minimal volume |
 
 **Business Decisions Enabled:**
 - Build the November Black Friday readiness plan 6 weeks before September
@@ -292,11 +292,11 @@ Actionable Recommendations (priority action plan)
 
 | Business Area | Problem Identified | Revenue / Impact Recovered |
 |---|---|---|
-| 🚚 Delivery | 65% 1-star rate on late orders → proactive comms programme | Recover 20–30% of negative reviews before posting |
-| 🏪 Sellers | 247 AT RISK sellers generating brand damage → formal plans | Platform satisfaction score improvement within 90 days |
-| 📦 Categories | Home Comfort 2 at 54% freight → minimum price floors | Immediate margin recovery on every order shipped |
-| 💳 Payments | 3-month installment lag invisible → corrected cash model | Eliminate working capital planning errors |
-| 🔄 Retention | 1–2% repeat rate → loyalty programme | Each 1% increase reduces acquisition cost by 5–7x |
+| Delivery | 65% 1-star rate on late orders → proactive comms programme | Recover 20–30% of negative reviews before posting |
+| Sellers | 247 AT RISK sellers generating brand damage → formal plans | Platform satisfaction score improvement within 90 days |
+| Categories | Home Comfort 2 at 54% freight → minimum price floors | Immediate margin recovery on every order shipped |
+| Payments | 3-month installment lag invisible → corrected cash model | Eliminate working capital planning errors |
+| Retention | 1–2% repeat rate → loyalty programme | Each 1% increase reduces acquisition cost by 5–7x |
 
 ### Investment & ROI Framework
 
@@ -317,7 +317,7 @@ Actionable Recommendations (priority action plan)
 
 ---
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 
 ### Business Analysis
 - Strategic problem framing (4 high-impact business questions from raw data)
@@ -342,7 +342,7 @@ Actionable Recommendations (priority action plan)
 
 ---
 
-## 🗄️ Data Model — 9 Tables, One Intelligence System
+##  Data Model — 9 Tables, One Intelligence System
 
 ```
                     ┌──────────────────┐
@@ -380,10 +380,10 @@ Actionable Recommendations (priority action plan)
 
 ---
 
-## 📐 Key DAX Measures
+##  Key DAX Measures
 
 <details>
-<summary><strong>📦 Delivery Performance Measures</strong> — click to expand</summary>
+<summary><strong> Delivery Performance Measures</strong> — click to expand</summary>
 
 ```dax
 -- Delivery Status Classification (Calculated Column)
@@ -435,7 +435,7 @@ Satisfaction Score Drop =
 </details>
 
 <details>
-<summary><strong>🏪 Seller Performance Measures</strong> — click to expand</summary>
+<summary><strong> Seller Performance Measures</strong> — click to expand</summary>
 
 ```dax
 -- Seller Performance Tier (Calculated Column on olist_sellers)
@@ -496,7 +496,7 @@ DIVIDE(
 </details>
 
 <details>
-<summary><strong>📦 Category Analysis Measures</strong> — click to expand</summary>
+<summary><strong>Category Analysis Measures</strong> — click to expand</summary>
 
 ```dax
 -- Freight % of Revenue
@@ -554,7 +554,7 @@ SWITCH(
 </details>
 
 <details>
-<summary><strong>💳 Revenue & Payment Measures</strong> — click to expand</summary>
+<summary><strong>Revenue & Payment Measures</strong> — click to expand</summary>
 
 ```dax
 -- Total GMV All Time (ignores all date slicers)
@@ -629,7 +629,7 @@ DIVIDE(
 
 ---
 
-## 🔍 SQL Queries — The Foundation Beneath the Dashboard
+## SQL Queries — The Foundation Beneath the Dashboard
 
 <details>
 <summary><strong>Query 1 — Delivery Performance & Review Score Impact</strong> — click to expand</summary>
@@ -835,7 +835,7 @@ olist-ecommerce-analysis/
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 ### For E-Commerce Platform Operators
 1. **Start with Page 1** (Executive Overview) — Establish the baseline and identify which of the three problems needs immediate action
@@ -883,16 +883,16 @@ olist-ecommerce-analysis/
 This project demonstrates exactly the type of work I deliver for clients — taking raw platform data and building the intelligence system that tells you what is working, what is failing, and what to do next.
 
 **I work with:**
-- 🛍️ E-commerce brands and marketplace operators
-- 🏠 Short-term rental hosts and property managers (Airbnb, STR, Booking.com)
-- 🏪 Retail stores and multi-location businesses
-- 📦 Sales operations and revenue optimisation teams
+-  E-commerce brands and marketplace operators
+-  Short-term rental hosts and property managers (Airbnb, STR, Booking.com)
+-  Retail stores and multi-location businesses
+-  Sales operations and revenue optimisation teams
 
 **You get:**
-- ✅ A dashboard your whole team can read — no technical background required
-- ✅ Clear answers to the questions costing you money right now
-- ✅ Business recommendations attached to every finding — not just charts
-- ✅ Plain English — what the data means for your business, not just what it says
+-  A dashboard your whole team can read — no technical background required
+-  Clear answers to the questions costing you money right now
+-  Business recommendations attached to every finding — not just charts
+-  Plain English — what the data means for your business, not just what it says
 
 **[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE)**
 
@@ -909,7 +909,7 @@ This project demonstrates exactly the type of work I deliver for clients — tak
 
 9 tables — 99,441 orders — September 2016 to September 2018
 
-> *Note: September 2018 excluded from trend analysis — only 11 orders, clearly incomplete month.*
+> *Note: September 2018 excluded from trend analysis — only 16 orders, clearly incomplete month.*
 
 ---
 
@@ -973,6 +973,6 @@ This project demonstrates exactly the type of work I deliver for clients — tak
 **Last Updated:** March 2026
 **Status:** ✅ Active — accepting new clients
 
-*Replace `YOUR_PROFILE_ID_HERE` in all badge links with your actual Upwork profile ID before publishing*
+
 
 </div>
