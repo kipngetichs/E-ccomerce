@@ -930,9 +930,8 @@ This project demonstrates exactly the type of work I deliver for clients - takin
 
 ### Ready to Turn Your Data Into Decisions?
 
-[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE) (https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share)
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Dashboard-blue)](https://kipngetichs.github.io/web-link/)
+[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success)](https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share)
 **Response Time:** Within 24 hours
 **Availability:** Currently accepting new clients
 
