@@ -383,7 +383,7 @@ Actionable Recommendations (priority action plan)
 ##  Key DAX Measures
 
 <details>
-<summary><strong> Delivery Performance Measures</strong> — click to expand</summary>
+<summary><strong> Delivery Performance Measures</strong> - click to expand</summary>
 
 ```dax
 -- Delivery Status Classification (Calculated Column)
@@ -435,7 +435,7 @@ Satisfaction Score Drop =
 </details>
 
 <details>
-<summary><strong> Seller Performance Measures</strong> — click to expand</summary>
+<summary><strong> Seller Performance Measures</strong> - click to expand</summary>
 
 ```dax
 -- Seller Performance Tier (Calculated Column on olist_sellers)
@@ -496,7 +496,7 @@ DIVIDE(
 </details>
 
 <details>
-<summary><strong>Category Analysis Measures</strong> — click to expand</summary>
+<summary><strong>Category Analysis Measures</strong> - click to expand</summary>
 
 ```dax
 -- Freight % of Revenue
@@ -554,7 +554,7 @@ SWITCH(
 </details>
 
 <details>
-<summary><strong>Revenue & Payment Measures</strong> — click to expand</summary>
+<summary><strong>Revenue & Payment Measures</strong> - click to expand</summary>
 
 ```dax
 -- Total GMV All Time (ignores all date slicers)
@@ -629,10 +629,10 @@ DIVIDE(
 
 ---
 
-## SQL Queries — The Foundation Beneath the Dashboard
+## SQL Queries - The Foundation Beneath the Dashboard
 
 <details>
-<summary><strong>Query 1 — Delivery Performance & Review Score Impact</strong> — click to expand</summary>
+<summary><strong>Query 1 - Delivery Performance & Review Score Impact</strong> - click to expand</summary>
 
 ```sql
 SELECT
@@ -686,7 +686,7 @@ ORDER BY avg_review_score DESC;
 </details>
 
 <details>
-<summary><strong>Query 2 — Seller Scorecard: Revenue, Satisfaction & Dispatch</strong> — click to expand</summary>
+<summary><strong>Query 2 - Seller Scorecard: Revenue, Satisfaction & Dispatch</strong> - click to expand</summary>
 
 ```sql
 SELECT
@@ -731,7 +731,7 @@ ORDER BY total_revenue DESC;
 </details>
 
 <details>
-<summary><strong>Query 3 — Category Revenue, Freight & Net Satisfaction Index</strong> — click to expand</summary>
+<summary><strong>Query 3 - Category Revenue, Freight & Net Satisfaction Index</strong> - click to expand</summary>
 
 ```sql
 SELECT
@@ -765,7 +765,7 @@ ORDER BY category_revenue DESC;
 </details>
 
 <details>
-<summary><strong>Query 4 — Monthly GMV, AOV & Payment Behaviour</strong> — click to expand</summary>
+<summary><strong>Query 4 - Monthly GMV, AOV & Payment Behaviour</strong> - click to expand</summary>
 
 ```sql
 SELECT
@@ -838,11 +838,11 @@ olist-ecommerce-analysis/
 ##  How to Use This Project
 
 ### For E-Commerce Platform Operators
-1. **Start with Page 1** (Executive Overview) — Establish the baseline and identify which of the three problems needs immediate action
-2. **Review Page 2** (Delivery Performance) — Find where delivery is failing and quantify the review score cost
-3. **Work through Page 3** (Seller Scorecard) — Classify your seller base and build the intervention priority list
-4. **Analyse Page 4** (Category Analysis) — Identify which categories are profitable and which are margin traps
-5. **Close with Page 5** (Revenue & Payments) — Correct your cash flow model and set the seasonal promotional calendar
+1. **Start with Page 1** (Executive Overview) - Establish the baseline and identify which of the three problems needs immediate action
+2. **Review Page 2** (Delivery Performance) - Find where delivery is failing and quantify the review score cost
+3. **Work through Page 3** (Seller Scorecard) - Classify your seller base and build the intervention priority list
+4. **Analyse Page 4** (Category Analysis) - Identify which categories are profitable and which are margin traps
+5. **Close with Page 5** (Revenue & Payments) - Correct your cash flow model and set the seasonal promotional calendar
 
 ### For Marketplace Managers
 1. **Benchmark all metrics** against platform averages (Page 1 KPIs)
@@ -851,10 +851,10 @@ olist-ecommerce-analysis/
 4. **Align financial planning** to cash collection reality, not GMV (Page 5 payment analysis)
 
 ### For Data Analysts Studying the Model
-1. **Review the data model** — 9 table star schema with documented cardinality
-2. **Examine the DAX measures** — CROSSFILTER, TREATAS, TOPN, and SUMMARIZE patterns
-3. **Run the SQL queries** — four production-grade queries covering all four analytical dimensions
-4. **Check the CROSSFILTER fix** — the filter propagation solution across the Many-to-One relationship chain
+1. **Review the data model** - 9 table star schema with documented cardinality
+2. **Examine the DAX measures** - CROSSFILTER, TREATAS, TOPN, and SUMMARIZE patterns
+3. **Run the SQL queries** - four production-grade queries covering all four analytical dimensions
+4. **Check the CROSSFILTER fix** - the filter propagation solution across the Many-to-One relationship chain
 
 ---
 
@@ -880,7 +880,7 @@ olist-ecommerce-analysis/
 
 ### Do you have marketplace or e-commerce data that needs to become decisions?
 
-This project demonstrates exactly the type of work I deliver for clients — taking raw platform data and building the intelligence system that tells you what is working, what is failing, and what to do next.
+This project demonstrates exactly the type of work I deliver for clients - taking raw platform data and building the intelligence system that tells you what is working, what is failing, and what to do next.
 
 **I work with:**
 -  E-commerce brands and marketplace operators
@@ -889,12 +889,11 @@ This project demonstrates exactly the type of work I deliver for clients — tak
 -  Sales operations and revenue optimisation teams
 
 **You get:**
--  A dashboard your whole team can read — no technical background required
+-  A dashboard your whole team can read - no technical background required
 -  Clear answers to the questions costing you money right now
--  Business recommendations attached to every finding — not just charts
--  Plain English — what the data means for your business, not just what it says
+-  Business recommendations attached to every finding - not just charts
+-  Plain English - what the data means for your business, not just what it says
 
-**[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE)**
 
 **Response Time:** Within 24 hours
 **Availability:** Currently accepting new clients
@@ -907,7 +906,7 @@ This project demonstrates exactly the type of work I deliver for clients — tak
 
 > [kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-9 tables — 99,441 orders — September 2016 to September 2018
+9 tables — 99,441 orders - September 2016 to September 2018
 
 > *Note: September 2018 excluded from trend analysis — only 16 orders, clearly incomplete month.*
 
@@ -931,7 +930,7 @@ This project demonstrates exactly the type of work I deliver for clients — tak
 
 ### Ready to Turn Your Data Into Decisions?
 
-[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE)
+[![Hire Me on Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE) (https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share)
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE)
 
 **Response Time:** Within 24 hours
