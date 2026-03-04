@@ -86,7 +86,7 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 *Answers: "Where exactly is delivery breaking down - and how much is it costing us in customer satisfaction?"*
 
 <!-- Replace with your actual Page 2 screenshot -->
-![Delivery Performance Dashboard](assets/page2_delivery_performance.png)
+![Delivery Performance Dashboard]<img width="1521" height="854" alt="Image" src="https://github.com/user-attachments/assets/b36e561c-e267-40b6-a6f5-d1bab042360f" />
 
 **Key Metrics Tracked:**
 - On-Time Delivery Rate: **93%**
