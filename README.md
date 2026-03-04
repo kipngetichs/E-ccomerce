@@ -160,7 +160,7 @@ AT RISK sellers  → ~247 sellers actively accumulating 1-star reviews — act i
 *Answers: "Across 74 categories, which ones earn money — and which ones are destroying margin on every order they ship?"*
 
 <!-- Replace with your actual Page 4 screenshot -->
-![Category Analysis Dashboard](assets/page4_category_analysis.png)
+![Category Analysis Dashboard]<img width="1529" height="854" alt="Image" src="https://github.com/user-attachments/assets/27d4832a-2e8f-4915-a424-0f39ff0cf39e" />
 
 **Key Metrics Tracked:**
 - Product Categories: **74** active on platform
