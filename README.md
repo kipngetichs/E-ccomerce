@@ -122,7 +122,7 @@ June Peak        → average 18 days — worst month in the dataset
 *Answers: "Which of 3,095 sellers are performing at the level this platform needs - and which ones are quietly damaging it?"*
 
 <!-- Replace with your actual Page 3 screenshot -->
-![Seller Scorecard Dashboard](assets/page3_seller_scorecard.png)
+![Seller Scorecard Dashboard]<img width="1515" height="849" alt="Image" src="https://github.com/user-attachments/assets/fae956ce-b62b-4941-b853-5a911cacb16f" />
 
 **Key Metrics Tracked:**
 - Total Active Sellers: **3,095**
