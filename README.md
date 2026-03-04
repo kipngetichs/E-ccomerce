@@ -1,8 +1,8 @@
 # 🛒 Olist E-Commerce Intelligence Engine
 ### Transforming a $15.7M Marketplace Into a Data-Driven Growth Machine Through Business Analytics
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Dashboard-blue)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE)
-[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success)](https://www.upwork.com/freelancers/~YOUR_PROFILE_ID_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Dashboard-blue)]((https://kipngetichs.github.io/web-link/))
+[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-success)]((https://www.upwork.com/freelancers/~0137c255a0a3fd5490?mp_source=share))
 
 ---
 
