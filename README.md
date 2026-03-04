@@ -90,7 +90,7 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 
 **Key Metrics Tracked:**
 - On-Time Delivery Rate: **93%**
-- Avg Score — Very Late Orders: **2.0 / 5**
+- Avg Score - Very Late Orders: **2.0 / 5**
 - Satisfaction Score Drop (on-time vs very late): **2.0 points**
 - Overall 1-Star Review Rate: **12%**
 
@@ -157,7 +157,7 @@ AT RISK sellers  → ~247 sellers actively accumulating 1-star reviews — act i
 ---
 
 ### Page 4  Category Analysis: Where Margin Grows and Where It Leaks
-*Answers: "Across 74 categories, which ones earn money — and which ones are destroying margin on every order they ship?"*
+*Answers: "Across 74 categories, which ones earn money - and which ones are destroying margin on every order they ship?"*
 
 <!-- Replace with your actual Page 4 screenshot -->
 ![Category Analysis Dashboard]<img width="1529" height="854" alt="Image" src="https://github.com/user-attachments/assets/27d4832a-2e8f-4915-a424-0f39ff0cf39e" />
@@ -205,11 +205,11 @@ Computers       ██░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### Page 5 — Revenue Trends & Payment Intelligence
+### Page 5 Revenue Trends & Payment Intelligence
 *Answers: "Is the revenue number real - and are we collecting money when we think we are?"*
 
 <!-- Replace with your actual Page 5 screenshot -->
-![Revenue Trends Dashboard](assets/page5_revenue_payments.png)
+![Revenue Trends Dashboard]<img width="1524" height="857" alt="Image" src="https://github.com/user-attachments/assets/54b6ab19-cf40-4e6e-8f7c-e39f7f78844e" />
 
 **Key Metrics Tracked:**
 - Total GMV All Time: **$15.74M**
@@ -246,7 +246,7 @@ Aug 2018  ████████████████████  $1.15M  
 
 ---
 
-## 🔬 Methodology: Why This Analysis is Reliable
+##  Methodology: Why This Analysis is Reliable
 
 ### Data Foundation
 - **99,441 orders** analysed across 24 months of real marketplace transactions
