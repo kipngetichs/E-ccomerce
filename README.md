@@ -51,10 +51,10 @@ I built a **5-page Power BI analytics system** that answers the only questions t
 ## Dashboard Overview
 
 ### Page 1 Executive Overview: The Business at a Glance
-*Answers: "Is the business healthy — and is there anything I need to act on today?"*
+*Answers: "Is the business healthy - and is there anything I need to act on today?"*
 
 <!-- Replace with your actual Page 1 screenshot -->
-![Executive Overview Dashboard](assets/page1_executive_overview.png)
+![Executive Overview Dashboard] <img width="1523" height="855" alt="Image" src="https://github.com/user-attachments/assets/1324e45b-993a-4e43-993b-f062aa3b852b" />
 
 **Key Metrics Tracked:**
 - Total Revenue (GMV): **$15.7M** across 24 months
